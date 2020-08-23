@@ -1,0 +1,17 @@
+body{
+    background-color: white;
+}
+
+
+.card1 {
+    float: left;
+    width:33%;
+    margin: 40px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+
+#t0{
+    display: none;
+}
+
